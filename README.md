@@ -6,7 +6,7 @@
 
 If I’m not working, I’m probably:
 - 🏋️ Training somewhere
-- ✈️ Travelling (see the places I've been to)
+- ✈️ Travelling
 - ☕ Drinking tea or coffee
 - ⚽ Watching some futbol match
 - 📚 Reading books or random things on the internet
