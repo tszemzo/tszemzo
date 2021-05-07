@@ -1,4 +1,4 @@
-👋🏽 I’m Tomas Szemzo, and this is a short intro to me. I hope you’ll find it useful if we need to work together.
+👋🏽 I’m Tomas Szemzo, and this is a short intro to me. I hope you’ll find it useful in case we need to work together.
 
 ## ⚙️ How I work
 
