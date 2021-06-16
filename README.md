@@ -7,7 +7,7 @@
 - <em>Keep it simple</em>: I like my code to be very clear, understandable and easy to explain.
 - If any flow, process or code part is particularly complex, <em>let's document it</em> properly as tomorrow maybe someone needs to take a look on that.
 - Let's keep an eye on our codebase, trying to keep <em>readability and code quality</em> as high as possible.
-- <em>Review, review, review...</em> In my experience, code reviews are one of the places (if not the most) where I've learnt more, I consider it a must practice. Obviously always with respect and sense of responsibility.
+- <em>Review always...</em> In my experience, code reviews are one of the places (if not the most) where I've learnt more, I consider it a must practice. Obviously always with respect and sense of responsibility.
 
 ## 💫 About me
 
