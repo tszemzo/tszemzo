@@ -14,6 +14,7 @@
 * I'm originally from Buenos Aires, Argentina. I started my tech path studying at the Universidad of Buenos Aires (UBA).
 
 If I’m not working, I’m probably:
+- 🍺 Hanging with friends
 - 🏋️ Training somewhere
 - ✈️ Travelling
 - ☕ Drinking tea or coffee
