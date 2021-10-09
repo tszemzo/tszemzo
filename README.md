@@ -17,7 +17,7 @@ If I’m not working, I’m probably:
 - 🍺 Hanging with friends
 - 🏋️ Training somewhere
 - ✈️ Travelling
-- ☕ Drinking tea or coffee
-- ⚽ Watching some futbol match
+- ⚽ Watching some sports
 - 📚 Reading books or random things on the internet
+- 💻 Learning something new
 - 🎥 Watching some movies
