@@ -21,3 +21,9 @@ If I’m not working, I’m probably:
 - 📚 Reading books or random things on the internet
 - 💻 Learning something new
 - 🎥 Watching some movies
+
+## How to reach me 📬
+Feel free to contact me using LinkedIn messages or write me an email.
+
+[![](https://img.shields.io/badge/Lets%20connect-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-szemzo)
+[![](https://img.shields.io/badge/-Email%20me-informational?style=flat&color=D14836&logo=gmail&logoColor=white)](mailto:szemzotomas@gmail.com)
