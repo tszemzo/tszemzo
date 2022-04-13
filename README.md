@@ -22,7 +22,7 @@ If I’m not working, I’m probably:
 - 💻 Learning something new
 - 🎥 Watching some movies
 
-## How to reach me 📬
+## 📬 How to reach me
 Feel free to contact me using LinkedIn messages or write me an email.
 
 [![](https://img.shields.io/badge/Lets%20connect-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-szemzo)
