@@ -17,10 +17,9 @@ If I’m not working, I’m probably:
 - 🍺 Hanging with friends
 - 🏋️ Training somewhere
 - ✈️ Travelling
-- ⚽ Watching some sports
+- ⚽ Watching some sports or movies
 - 📚 Reading books or random things on the internet
 - 💻 Learning something new
-- 🎥 Watching some movies
 
 ## 📬 How to reach me
 Feel free to contact me using LinkedIn messages or write me an email.
