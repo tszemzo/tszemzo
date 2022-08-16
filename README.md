@@ -24,5 +24,5 @@ If I’m not working, I’m probably:
 ## 📬 Reach me
 Feel free to contact me using LinkedIn messages or write me an email.
 
-[![](https://img.shields.io/badge/Lets%20connect-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-szemzo)
+[![](https://img.shields.io/badge/Let's%20connect-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-szemzo)
 [![](https://img.shields.io/badge/-Email%20me-informational?style=flat&color=D14836&logo=gmail&logoColor=white)](mailto:szemzotomas@gmail.com)
