@@ -11,7 +11,7 @@
 
 ## 💫 About me
 
-* I'm originally from Buenos Aires, Argentina. I started my tech path studying at the Universidad of Buenos Aires (UBA).
+* I'm originally from Buenos Aires, Argentina but living currently in Madrid, Spain. I started my tech path studying at the Universidad of Buenos Aires (UBA).
 
 If I’m not working, I’m probably:
 - 🍺 Hanging with friends
